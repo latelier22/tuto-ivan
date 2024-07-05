@@ -1,0 +1,75 @@
+h1 {
+  color: red;
+  text-align: center;
+  margin: auto;
+   padding-top : 30px;
+  padding-bottom : 30px;
+  margin-bottom : 20px;
+  width : 200px;
+  border-radius: 25px;
+  border : solid;
+  border-color : #CCCCCC;
+
+  
+}
+h1:hover {
+    background-color : white;
+}
+
+
+h2 {
+  color: blue;
+}
+
+
+.bloc-content
+{
+   padding-top : 30px;
+    background-color : #EEEEEE;
+    
+}
+
+.menu-navigation
+{
+    background-color : black;
+    padding : 10px;
+    display : flex;
+    flex-wrap: wrap;
+    
+}
+
+a:visited
+{
+    color: white;
+}
+
+a {
+    color : white;
+    text-decoration :
+    
+}
+
+.bloc-flex
+{
+    display : flex;
+    justify-content : space-around;
+    flex-wrap: wrap;
+    padding-left : 20px:
+}
+.bloc
+{
+    
+    
+    width : 300px;
+    background : white;
+    margin-bottom : 20px;
+    padding : 30px;
+    border-radius : 5%;
+    box-shadow : 5px 10px 20px 0px rgba(0,0,0,0.5)
+    
+}
+
+
+p {
+   text-indent : 20px
+}
